@@ -13,12 +13,11 @@ Section 1
 - []   * [RFC 2196 - Site Security Handbook] - http://www.faqs.org/rfcs/rfc2196.html
 - []   * [RFC 2350 - Expectations for Computer Security Incident Response] - http://www.faqs.org/rfcs/rfc2350.html
 - []   * [RFC 2828 - Internet Security Glossary] - http://www.faqs.org/rfcs/rfc2828.html
-- []   * [RFC 2828 - Internet Security Glossary] - http://www.faqs.org/rfcs/rfc2828.html
 - []   * [SANS Information Security Policy Templates] - https://www.sans.org/information-security-policy/
 - [] * [Cisco Secure Endpoint Product Portal] - https://www.cisco.com/site/us/en/products/security/endpoint-security/secure-endpoint/resources.html
-- [] * [Agent/Agent-Based Protections] - https://en.wikipedia.org/wiki/Network_Access_Control#Agent_versus_agentless
-- [] * [Legacy antivirus and antimalware] - https://blogs.cisco.com/security/endpoint-security-from-cisco-earns-high-marks-in-independent-malware-protection-test
-- [] * [SIEM, SOAR, and log management] - https://en.wikipedia.org/wiki/Security_information_and_event_management
+- [x] * [Agent/Agent-Based Protections] - https://en.wikipedia.org/wiki/Network_Access_Control#Agent_versus_agentless
+- [x] * [Legacy antivirus and antimalware] - https://blogs.cisco.com/security/endpoint-security-from-cisco-earns-high-marks-in-independent-malware-protection-test
+- [x] * [SIEM, SOAR, and log management] - https://en.wikipedia.org/wiki/Security_information_and_event_management
 Section 2
 - [] * [] 
 - [] * []
