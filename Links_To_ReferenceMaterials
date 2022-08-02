@@ -19,8 +19,8 @@ Section 1
 - [x] * [Legacy antivirus and antimalware] - https://blogs.cisco.com/security/endpoint-security-from-cisco-earns-high-marks-in-independent-malware-protection-test
 - [x] * [SIEM, SOAR, and log management] - https://en.wikipedia.org/wiki/Security_information_and_event_management
 Section 2
-- [] * [] 
-- [] * []
+- [x] * [What is Threat Hunting?]  - https://www.cisco.com/c/en/us/products/security/endpoint-security/what-is-threat-hunting.html?dtid=osscdc000283?socialshare=lightbox_threat
+- [] * [On-Premises Malware Analysis, Threat Intelligence] - https://www.cisco.com/c/en_ca/products/security/amp-threat-grid-appliances/index.html
 - [] * []
 * ...
 Section 3
