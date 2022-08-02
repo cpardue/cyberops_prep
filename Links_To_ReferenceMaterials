@@ -1,4 +1,5 @@
 # Individual Links to Reference Materials
+## Sections are split in an arbitrary way for now
 
 Section 1
 - [x] * [Risk Triage for Security Vulnerability Annoucements] - https://tools.cisco.com/security/center/resources/vulnerability_risk_triage.html
@@ -20,11 +21,15 @@ Section 1
 - [x] * [SIEM, SOAR, and log management] - https://en.wikipedia.org/wiki/Security_information_and_event_management
 Section 2
 - [x] * [What is Threat Hunting?]  - https://www.cisco.com/c/en/us/products/security/endpoint-security/what-is-threat-hunting.html?dtid=osscdc000283?socialshare=lightbox_threat
-- [] * [On-Premises Malware Analysis, Threat Intelligence] - https://www.cisco.com/c/en_ca/products/security/amp-threat-grid-appliances/index.html
-- [] * []
+- [x] * [On-Premises Malware Analysis, Threat Intelligence] - https://www.cisco.com/c/en_ca/products/security/amp-threat-grid-appliances/index.html
+- [x] * [Principle of Least Privilege] - https://en.wikipedia.org/wiki/Principle_of_least_privilege
+- [x] * [Cisco Zero Trust Portal] - https://www.cisco.com/c/en/us/products/security/zero-trust.html
+- [x] * [Cisco ZeroTrust Report] - https://www.cisco.com/c/dam/global/en_uk/products/pdfs/cisco-ciso-day-zero-trust.pdf?CAMPAIGN=SC-04+Threat-centric+Security&ccid=cc001304&COUNTRY_SITE=uk&dtid=esoxsp000188&oid=+ptnsc020746+&POSITION=social+media+organic&REFERRING_SITE=Cisco.uk
+- [] * [Vulnerability (Computing)] - https://en.wikipedia.org/wiki/Vulnerability_(computing)
+- [] * [Common Vulnerability Scoring System Q & A] - https://tools.cisco.com/security/center/resources/cvss_q_a.html
 * ...
 Section 3
-- [] * [] 
+- [] * [Building an Enterprise Access Control Architecture using ISE (BRKSEC-2695)] - https://www.ciscolive.com/on-demand/on-demand-library.html?search=Building%20an%20Enterprise%20Access%20Control%20Architecture%20using%20ISE#/session/163605973859200175D7
 - [] * []
 - [] * []
 * ...
