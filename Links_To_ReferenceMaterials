@@ -10,7 +10,6 @@ Section 1
 - [x]    * [NIST Framework for Improving Critical Infrastructure Cybersecurity 1.1] - https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04162018.pdf
 - [x]    * [CISA Zero Trust Maturity Model Draft] - https://www.cisa.gov/sites/default/files/publications/CISA%20Zero%20Trust%20Maturity%20Model_Draft.pdf
 - [x]   * [FIRST Best Practice Guide Library (BPGL) CERT-in-a-box] - https://www.first.org/resources/guides/#CERT-in-a-box
-- [x]   * [Common Vulnerability Scoring System (CVSS)] - https://www.first.org/cvss/
 - []   * [RFC 2196 - Site Security Handbook] - http://www.faqs.org/rfcs/rfc2196.html
 - []   * [RFC 2350 - Expectations for Computer Security Incident Response] - http://www.faqs.org/rfcs/rfc2350.html
 - []   * [RFC 2828 - Internet Security Glossary] - http://www.faqs.org/rfcs/rfc2828.html
@@ -25,17 +24,34 @@ Section 2
 - [x] * [Principle of Least Privilege] - https://en.wikipedia.org/wiki/Principle_of_least_privilege
 - [x] * [Cisco Zero Trust Portal] - https://www.cisco.com/c/en/us/products/security/zero-trust.html
 - [x] * [Cisco ZeroTrust Report] - https://www.cisco.com/c/dam/global/en_uk/products/pdfs/cisco-ciso-day-zero-trust.pdf?CAMPAIGN=SC-04+Threat-centric+Security&ccid=cc001304&COUNTRY_SITE=uk&dtid=esoxsp000188&oid=+ptnsc020746+&POSITION=social+media+organic&REFERRING_SITE=Cisco.uk
-- [] * [Vulnerability (Computing)] - https://en.wikipedia.org/wiki/Vulnerability_(computing)
+- [x] * [Vulnerability (Computing)] - https://en.wikipedia.org/wiki/Vulnerability_(computing)
 - [] * [Common Vulnerability Scoring System Q & A] - https://tools.cisco.com/security/center/resources/cvss_q_a.html
 * ...
 Section 3
-- [] * [Building an Enterprise Access Control Architecture using ISE (BRKSEC-2695)] - https://www.ciscolive.com/on-demand/on-demand-library.html?search=Building%20an%20Enterprise%20Access%20Control%20Architecture%20using%20ISE#/session/163605973859200175D7
-- [] * []
-- [] * []
+- [x] * [Building an Enterprise Access Control Architecture using ISE (BRKSEC-2695)] - https://www.ciscolive.com/on-demand/on-demand-library.html?search=Building%20an%20Enterprise%20Access%20Control%20Architecture%20using%20ISE#/session/163605973859200175D7
+- [x] * [Access Controls: Models and Methods] - https://resources.infosecinstitute.com/certification/access-control-models-and-methods/#gref
+- [x] * [Common Vulnerability Scoring System (CVSS 3.1)] - https://www.first.org/cvss/
 * ...
 Section 4
-- [] * [] 
-- [] * []
-- [] * []
+- [x] * [The Most Common Cyber Attacks (AMP)] - https://www.cisco.com/c/en/us/products/security/common-cyberattacks.html#~types-of-cyber-attacks
+- [] * [Attack Surface (Wikipedia)] - https://en.wikipedia.org/wiki/Attack_surface
+- [] * [TCP Dump (danielmiessler)] - https://danielmiessler.com/study/tcpdump/#gs.FSDvC3Q
+- [] * [Netflow] - https://www.cisco.com/c/en/us/products/ios-nx-os-software/netflow-version-9/index.html
+- [] * [Next-Gen Firewall] = https://www.cisco.com/site/il/en/products/security/firewalls/index.html
+- [] * [Firepower Next-Gen Firewall] - https://www.cisco.com/c/en/us/products/collateral/security/firesight-management-center/at-a-glance-c45-736624.html
+- [] * [Traditional Stateful Firewall] - https://en.wikipedia.org/wiki/Stateful_firewall
+- [] * [Web Content Filtering] - https://www.cisco.com/c/en/us/products/collateral/security/web-security-appliance/datasheet_C78-718442.html
+- [] * [Email Content Filtering] - https://www.cisco.com/c/en/us/td/docs/security/ces/user_guide/esa_user_guide_13-5/b_ESA_Admin_Guide_ces_13-5/b_ESA_Admin_Guide_12_1_appendix_0101110.html?dtid=osscdc000283
 * ...
+Section 5  
+- [] * []
+- [] * []
+- [] * []
+- [] * []
+- [] * []
+Section 6  
+Section 7  
+Section 8  
+Section 9  
+Section 10  
 ...
