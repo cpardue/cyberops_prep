@@ -1,40 +1,60 @@
-Test 1 Results: 
-    * Score: 
-    * Percentages: 
-    * Weakest Areas: 
-Test 2 Results: 
-    * Score: 
-    * Percentages: 
-    * Weakest Areas: 
-Test 3 Results: 
-    * Score: 
-    * Percentages: 
-    * Weakest Areas: 
-Test 4 Results: 
-    * Score: 
-    * Percentages: 
-    * Weakest Areas: 
-Test 5 Results: 
-    * Score: 
-    * Percentages: 
-    * Weakest Areas: 
-Test 6 Results: 
-    * Score: 
-    * Percentages: 
-    * Weakest Areas: 
-Test 7 Results: 
-    * Score: 
-    * Percentages: 
-    * Weakest Areas: 
-Test 8 Results: 
-    * Score: 
-    * Percentages: 
-    * Weakest Areas: 
-Test 9 Results: 
-    * Score: 
-    * Percentages: 
-    * Weakest Areas: 
-Test 10 Results: 
-    * Score: 
-    * Percentages: 
-    * Weakest Areas: 
+################################################################################################
+########## - Test 1 Results: 
+Section....................................................................%..Attempted..Correct
+Chapter 01 - Cybersecurity Fundamentals 	                                 66.67 	6 	4
+Chapter 02 - Introduction to Cloud Computing and Cloud Security 	         100 	6 	6
+Chapter 03 - Access Control Models 	                                       62.5 	8 	5
+Chapter 04 - Identifying Common Attacks and Vulnerabilities 	            100 	4 	4
+Chapter 05 - Fundamentals of Cryptography and PKI 	                        75 	4 	3
+Chapter 06 - Introduction to Virtual Private Networks (VPNs) 	            50 	6 	3
+Chapter 07 - Introduction to Security Management 	                        80 	5 	4
+Chapter 08 - Introduction to Incident Response and Incident Handling 	   50 	6 	3
+Chapter 09 - Introduction to Digital Forensics 	                           87.5 	8 	7
+Chapter 10 - Network Infrastructure Device Telemetry and Analysis 	      85.71 	7 	6
+.............Weakest Areas: Chapters 6, 8, 3.
+################################################################################################    
+########## - Test 2 Results: 
+Section....................................................................%..Attempted..Correct
+(paste results here)
+.............Weakest Areas: 
+################################################################################################
+########## - Test 3 Results: 
+Section....................................................................%..Attempted..Correct
+(paste results here)
+.............Weakest Areas: 
+################################################################################################
+########## - Test 4 Results: 
+Section....................................................................%..Attempted..Correct
+(paste results here)
+.............Weakest Areas: 
+################################################################################################
+########## - Test 5 Results: 
+Section....................................................................%..Attempted..Correct
+(paste results here)
+.............Weakest Areas: 
+################################################################################################
+########## - Test 6 Results: 
+Section....................................................................%..Attempted..Correct
+(paste results here)
+.............Weakest Areas: 
+################################################################################################
+########## - Test 7 Results: 
+Section....................................................................%..Attempted..Correct
+(paste results here)
+.............Weakest Areas: 
+################################################################################################
+########## - Test 8 Results: 
+Section....................................................................%..Attempted..Correct
+(paste results here)
+.............Weakest Areas: 
+################################################################################################
+########## - Test 9 Results: 
+Section....................................................................%..Attempted..Correct
+(paste results here)
+.............Weakest Areas: 
+################################################################################################
+########## - Test 10 Results: 
+Section....................................................................%..Attempted..Correct
+(paste results here)
+.............Weakest Areas: 
+################################################################################################
