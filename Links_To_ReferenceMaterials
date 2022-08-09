@@ -44,13 +44,27 @@ Section 4
 - [] * [Email Content Filtering] - https://www.cisco.com/c/en/us/td/docs/security/ces/user_guide/esa_user_guide_13-5/b_ESA_Admin_Guide_ces_13-5/b_ESA_Admin_Guide_12_1_appendix_0101110.html?dtid=osscdc000283
 * ...
 Section 5  
-- [] * [Data Visibility Challenges] - https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2019/pdf/PSOSPM-2037.pdf
-- [] * []
-- [] * []
-- [] * []
-- [] * []
+- [x] * [Data Visibility Challenges] - https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2019/pdf/PSOSPM-2037.pdf
+- [x] * [Configure Commonly Used IP ACLs] - https://www.cisco.com/c/en/us/support/docs/ip/access-lists/26448-ACLsamples.html
+- [x] * [Network Address Translation (NAT)] - https://www.cisco.com/c/en/us/td/docs/security/firepower/610/fdm/fptd-fdm-config-guide-610/fptd-fdm-nat.html
+- [x] * [Tunneling] - https://www.cisco.com/c/en/us/products/ios-nx-os-software/tunneling/index.html
+- [x] * [TOR] - https://2019.www.torproject.org/about/overview.html.en
+- [x] * [Next-Gen Cryptography] - https://tools.cisco.com/security/center/resources/next_generation_cryptography#3
+- [] * [P2P Protocols] - https://www.cisco.com/c/en/us/td/docs/cable/serv_exch/serv_control/broadband_app/protocol_ref_guide/protocol_ref_guide/01_p2p.pdf
+- [] * [Understanding Encapsulation] - https://www.cisco.com/E-Learning/bulk/public/tac/cim/cib/using_cisco_ios_software/linked/tcpip.htm
+- [] * [How Does Load Balancing Work] - https://www.cisco.com/c/en/us/support/docs/ip/border-gateway-protocol-bgp/5212-46.html#topic1
 Section 6  
+- [] * [Full Packet Capture] - https://www.cisco.com/c/en/us/support/docs/ios-nx-os-software/ios-embedded-packet-capture/116045-productconfig-epc-00.html
+- [] * [Session, Transactions, and Alerts] - https://blogs.cisco.com/security/how-to-defend-against-command-and-control-attacks-dont-let-your-network-turn-into-a-zombie
+- [] * []
+- [] * []
+- [] * []
 Section 7  
+- [] * []
+- [] * []
+- [] * []
+- [] * []
+- [] * []
 Section 8  
 Section 9  
 Section 10  
