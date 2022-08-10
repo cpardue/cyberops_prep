@@ -56,10 +56,20 @@ Section 5
 Section 6  
 - [x] * [Full Packet Capture] - https://www.cisco.com/c/en/us/support/docs/ios-nx-os-software/ios-embedded-packet-capture/116045-productconfig-epc-00.html
 - [x] * [Session, Transactions, and Alerts] - https://blogs.cisco.com/security/how-to-defend-against-command-and-control-attacks-dont-let-your-network-turn-into-a-zombie
-- [] * []
-- [] * []
-- [] * []
+- [] * [What is DDOS] - https://www.cisco.com/c/en/us/products/security/what-is-a-ddos-attack.html
+- [] * [What is SQL Injection] - https://en.wikipedia.org/wiki/SQL_injection
+- [] * [What is command injection] - https://owasp.org/www-community/attacks/Command_Injection
+- [] * [What is XSS] - https://wiki.owasp.org/index.php/Cross-site_Scripting_(XSS)
+- [] * [What is phishing] - https://www.cisco.com/c/en/us/products/security/email-security/what-is-phishing.html
+- [] * [What is ransomware] - https://www.cisco.com/c/en/us/solutions/security/ransomware-defense/what-is-ransomware.html
+- [] * [What is malware] - https://www.cisco.com/c/en/us/products/security/advanced-malware-protection/what-is-malware.html
+- [x] * [Tech Support Scammers] - https://blog.talosintelligence.com/2015/11/tech-support-scammers.html
 Section 7  
+- [x] * [Types of encryption] - https://www.cisco.com/c/en/us/products/security/encryption-explained.html#~types-of-encryption
+- [x] * [Cryptographic Visibility] - https://blogs.cisco.com/security/cryptographic-visibility-quality-encryption-at-your-fingertips
+- [x] * [2019 Threats Of The Year] - https://ebooks.cisco.com/story/2019-threat-roundup/page/1
+- [] * [Network IPS Traffic Analysis Methods, Evasion Possibilities, and Anti-evasive Countermeasures] - https://www.ciscopress.com/articles/article.asp?p=1728833&seqNum=3
+- [] * []
 - [] * []
 - [] * []
 - [] * []
