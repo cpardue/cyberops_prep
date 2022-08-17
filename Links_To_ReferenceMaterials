@@ -72,9 +72,9 @@ Section 7
 - [] * [Application-level whitelisting/blacklisting] - https://www.bleepingcomputer.com/tutorials/create-an-application-whitelist-policy-in-windows/
 - [] * [Assets] - https://www.nccoe.nist.gov/financial-services/it-asset-management
 - [] * [Indicators of Compromise] - https://blogs.cisco.com/security/staying-ahead-of-the-hack-operationalizing-threat-intelligence-to-strengthen-defenses
-- [] * [Chain of custody] - https://en.wikipedia.org/wiki/Chain_of_custody
-- [] * [Circumstantial evidence] - https://en.wikipedia.org/wiki/Circumstantial_evidence
-- [] * [Compare tampered and untampered disk image] - https://en.wikipedia.org/wiki/Rootkit
+- [x] * [Chain of custody] - https://en.wikipedia.org/wiki/Chain_of_custody
+- [x] * [Circumstantial evidence] - https://en.wikipedia.org/wiki/Circumstantial_evidence
+- [x] * [Compare tampered and untampered disk image] - https://en.wikipedia.org/wiki/Rootkit
 - [] * [Interpret operating system, application, or command line logs to identify event] - https://en.wikipedia.org/wiki/File_system
 - [] * [Threat Roundup (Talos)] - https://blog.talosintelligence.com/2020/08/threat-roundup-0821-0827.html
 - [] * [Hash Function] - https://en.wikipedia.org/wiki/Talk:Hash_function
