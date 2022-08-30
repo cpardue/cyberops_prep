@@ -79,8 +79,15 @@ Section 7
 - [x] * [Threat Roundup (Talos)] - https://blog.talosintelligence.com/2020/08/threat-roundup-0821-0827.html
 - [x] * [Hash Function] - https://en.wikipedia.org/wiki/Hash_function
 - [x] * [URLs] - https://en.wikipedia.org/wiki/URL
-- [] * [] - 
 Section 8
+- [] * [False Positive, True Positive tables] - https://community.microfocus.com/cyberres/arcsight/f/arcsight-discussions/345463/what-is-false-positive-false-negetive-true-positive-and-true-negetive/466602#466602
+- [] * [What is Deep Packet Inspection] - https://en.wikipedia.org/wiki/Deep_packet_inspection
+- [] * [What is Packet Filtering] - https://www.techopedia.com/definition/4038/packet-filtering
+- [] * [What is a Stateful Firewall] - https://en.wikipedia.org/wiki/Stateful_firewall
+- [] * [] - 
+- [] * [] - 
+- [] * [] - 
+- [] * [] - 
 Section 9  
 Section 10  
 ...
