@@ -84,10 +84,30 @@ Section 8
 - [] * [What is Deep Packet Inspection] - https://en.wikipedia.org/wiki/Deep_packet_inspection
 - [] * [What is Packet Filtering] - https://www.techopedia.com/definition/4038/packet-filtering
 - [] * [What is a Stateful Firewall] - https://en.wikipedia.org/wiki/Stateful_firewall
-- [] * [] - 
-- [] * [] - 
-- [] * [] - 
-- [] * [] - 
+- [] * [What are Ethernet Frames] - https://en.wikipedia.org/wiki/Ethernet_frame
+- [] * [What is Internet Protocol v4] - https://en.wikipedia.org/wiki/IPv4
+- [] * [What is Internet Protocol v6] - https://en.wikipedia.org/wiki/IPv6
+- [] * [What is TCP] - https://www.cisco.com/c/en/us/support/docs/ip/routing-information-protocol-rip/13769-5.html#tcp
+- [] * [What is UDP] - https://en.wikipedia.org/wiki/User_Datagram_Protocol
+- [] * [What is ICMP] - https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol
+- [] * [DNS Best Practices] - https://tools.cisco.com/security/center/resources/dns_best_practices
+- [] * [What is POP] - https://en.wikipedia.org/wiki/Post_Office_Protocol
+- [] * [What is HTTP] - https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol
+- [] * [What is HTTPS] - https://en.wikipedia.org/wiki/HTTPS
+- [] * [ARP Config Guide] - https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/ipaddr_arp/configuration/15-mt/arp-15-mt-book/arp-config-arp.html#GUID-C02757E6-1AA7-440E-BA32-60FF961627A3
+- [] * [What is IP Addressing (Src/Dst)] - https://en.wikipedia.org/wiki/IP_address
+- [] * [Client and Server Port Identity] - https://www.rfc-editor.org/rfc/rfc1413
+- [] * [Process (File or Registry)] - https://docs.microsoft.com/en-us/windows/win32/sysinfo/structure-of-the-registry?redirectedfrom=MSDN
+- [] * [System (API) Calls] - https://en.wikipedia.org/wiki/System_call
+- [] * [Hash Function] - https://en.wikipedia.org/wiki/Hash_function
+- [] * [URI vs URL] - https://stackoverflow.com/questions/176264/what-is-the-difference-between-a-uri-a-url-and-a-urn
 Section 9  
+- [] * [] - 
+- [] * [] - 
+- [] * [] - 
+- [] * [] - 
+- [] * [] - 
+- [] * [] - 
+- [] * [] - 
 Section 10  
 ...
