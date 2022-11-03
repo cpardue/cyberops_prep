@@ -15,7 +15,21 @@ Chapter 10 - Network Infrastructure Device Telemetry and Analysis 	      85.71 	
 ################################################################################################    
 ########## - Test 2 Results: 
 Section....................................................................%..Attempted..Correct
-(paste results here)
+Chapter 01 - Cybersecurity Fundamentals 	                                83.33 	6 	5
+Chapter 02 - Introduction to Cloud Computing and Cloud Security 	        66.67 	6 	4
+Chapter 03 - Access Control Models 	                                      83.33 	6 	5
+Chapter 04 - Identifying Common Attacks and Vulnerabilities 	            100 	6 	6
+Chapter 05 - Fundamentals of Cryptography and PKI 	                      83.33 	6 	5
+Chapter 06 - Introduction to Virtual Private Networks (VPNs) 	            50 	6 	3
+Chapter 07 - Introduction to Security Management 	                        66.67 	6 	4
+Chapter 08 - Introduction to Incident Response and Incident Handling 	    50 	6 	3
+Chapter 09 - Introduction to Digital Forensics 	                          83.33 	6 	5
+Chapter 10 - Network Infrastructure Device Telemetry and Analysis 	      66.67 	6 	4
+Chapter 11 - Endpoint Telemetry and Analysis 	                            50 	6 	3
+Chapter 12 - Challenges in the Security Operation Center (SOC) 	          83.33 	6 	5
+Chapter 13 - The Art of Data and Event Analysis 	                        66.67 	6 	4
+Chapter 14 - Classifying Intrusion Events into Categories 	              50 	6 	3
+Chapter 15 - Introduction to Threat Hunting 	                            50 	6 	3
 .............Weakest Areas: 
 ################################################################################################
 ########## - Test 3 Results: 
